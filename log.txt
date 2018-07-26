@@ -1,0 +1,117 @@
+
+
+my-tweets: 
+
+Tweet from: Wed Jul 25 21:19:03 +0000 2018 
+#CaliforniaWildLife #Lizards
+The Blainville's Horned Lizard is uncommon. It is gone from much of its previous range… https://t.co/HYqN0v90y5 
+
+Tweet from: Wed Jul 25 21:17:46 +0000 2018 
+#CaliforniaWildLife #Lizards
+San Francisco Alligator Lizards are brown, gray, olive, or brown in color with a patte… https://t.co/2ah8lcstGy 
+
+Tweet from: Wed Jul 25 21:16:01 +0000 2018 
+#CaliforniaWildLife #Lizards
+California Alligator Lizards are found in grassland, open forest, chabarral, oak woodl… https://t.co/8NqVQW68sw
+
+spotify-my-song: 
+Artist: Ace of Base 
+Title: The Sign 
+Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=be67fcb95c2944e9aaef150d7a71915e 
+Album: The Sign (US Album) [Remastered]
+
+spotify-my-song: 
+
+Result 1: 
+Artist: Natalie Imbruglia 
+Title: Torn 
+Preview: https://p.scdn.co/mp3-preview/6226210d4427f1f4dff7555abbd9801aae3af1f0?cid=be67fcb95c2944e9aaef150d7a71915e 
+Album: Left Of The Middle 
+
+Result 2: 
+Artist: Breaking Benjamin 
+Title: Torn in Two 
+Preview: Sorry, no preview link provided by spotify 
+Album: Ember 
+
+Result 3: 
+Artist: Pop Evil 
+Title: Torn to Pieces 
+Preview: https://p.scdn.co/mp3-preview/f3850b94650ba6d2938501e409b0475e02e3613c?cid=be67fcb95c2944e9aaef150d7a71915e 
+Album: Onyx 
+
+Result 4: 
+Artist: James TW 
+Title: Torn - Bonus Track 
+Preview: Sorry, no preview link provided by spotify 
+Album: First Impressions 
+
+Result 5: 
+Artist: LeToya 
+Title: Torn 
+Preview: Sorry, no preview link provided by spotify 
+Album: LeToya 
+
+Result 6: 
+Artist: Natalie Imbruglia 
+Title: Torn - Acoustic MTV Unplugged 
+Preview: https://p.scdn.co/mp3-preview/d039760c0980f3be9eb23dcc4943b420802865d6?cid=be67fcb95c2944e9aaef150d7a71915e 
+Album: Torn/Wishing I Was There 
+
+Result 7: 
+Artist: Lucidious 
+Title: Face the Truth 
+Preview: https://p.scdn.co/mp3-preview/771aa3f819a35f1bdc6a602d2757e25afcc75a5a?cid=be67fcb95c2944e9aaef150d7a71915e 
+Album: Torn Between Pages, Vol. I: Make It Out Alive 
+
+Result 8: 
+Artist: Boyce Avenue 
+Title: Torn 
+Preview: https://p.scdn.co/mp3-preview/2e5ee002a9b10fd240215554aa5f176a987c4370?cid=be67fcb95c2944e9aaef150d7a71915e 
+Album: Cover Sessions, Vol. 5 
+
+Result 9: 
+Artist: Creed 
+Title: Torn 
+Preview: Sorry, no preview link provided by spotify 
+Album: My Own Prison 
+
+Result 10: 
+Artist: Lucidious 
+Title: Moment of Silence 
+Preview: https://p.scdn.co/mp3-preview/f6efd9e625210a10a626550c9610274990be7da2?cid=be67fcb95c2944e9aaef150d7a71915e 
+Album: Torn Between Pages, Vol. I: Make It Out Alive
+
+movie-this: 
+Title: Mr. Nobody 
+Released: 26 Sep 2013 
+IMDB Rating: 7.9 
+Rotten Tomatoes Rating: 66% 
+Country of Production: Belgium, Germany, Canada, France, USA, UK 
+Language: English, Mohawk 
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. 
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+movie-this: 
+Title: Frozen 
+Released: 27 Nov 2013 
+IMDB Rating: 7.5 
+Rotten Tomatoes Rating: 90% 
+Country of Production: USA 
+Language: English, Norwegian 
+Plot: When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition. 
+Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+
+do-what-it-says: 
+ command: movie-this 
+ option: "Bad Boys"
+
+movie-this: 
+Title: Bad Boys 
+Released: 07 Apr 1995 
+IMDB Rating: 6.8 
+Rotten Tomatoes Rating: 42% 
+Country of Production: USA 
+Language: English 
+Plot: Two hip detectives protect a witness to a murder while investigating a case of stolen heroin from the evidence storage room from their police precinct. 
+Actors: Lisa Boyle, Michael Taliferro, Emmanuel Xuereb, Tchéky Karyo
