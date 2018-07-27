@@ -10,7 +10,8 @@ and gives back data accordingly. "my-tweets" will display your last 20 tweets an
 "spotify-this-song" will give you the artist and ablum names and a preview link when you enter a song.
 "movie-this" will give you information about the release date, IMBD and Rotten Tomatoes Ratings, country of production, 
 language, plot, and actors when you enter a movie title.
-"do-what-it-says" runs the command from the text file random.txt.
+"do-what-it-says" runs the command from the text file random.txt. 
+Please see the log.txt file for output examples.
 
 # How to use it:
 - Clone repository here: https://github.com/SHollatz/liri-node-app
