@@ -2,8 +2,8 @@
 LIRI is a Language Interpretation and Recognition Interface. 
 It is a command line node app that takes in one of four parameters 
  - my-tweets 
- - spotify-this-song <song>
- - movie-this <movie>
+ - spotify-this-song {song}
+ - movie-this {movie}
  - do-what-it-says
 
 and gives back data accordingly.
@@ -11,7 +11,7 @@ and gives back data accordingly.
 # How to use it:
 - Clone repository
 - run npm install in your terminal
-- run node liri.js <choose a command of the list above> <option for spotify-this-song or movie-this>
+- run node liri.js {choose a command of the list above} {option for spotify-this-song or movie-this}
 
 # used Tech
 - Node.js
