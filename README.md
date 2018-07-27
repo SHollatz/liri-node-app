@@ -8,6 +8,11 @@ It is a command line node app that takes in one of four parameters
 
 and gives back data accordingly.
 
+# How to use it:
+- Clone repository
+- run npm install in your terminal
+- run node liri.js <choose a command of the list above> <option for spotify-this-song or movie-this>
+
 # used Tech
 - Node.js
 - Twitter NPM Package - https://www.npmjs.com/package/twitter
